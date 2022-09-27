@@ -18,6 +18,6 @@ O programa deve aceitar valores sempre com dois digitos após a virgula e com at
 $ git clone https://github.com/joaovs2004/Exercicio01-Qipu.git
 # Entre na pasta do projeto
 $ cd Exercicio01-Qipu/
-# IRode o projeto com
+# Rode o projeto com
 $ python main.py
 ```
